@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 2021年榜
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/2021List/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 1 The Amazing Adventures of Kavalier and Clay
+	作者：Michael Chabon
+	⭕️关键词：漫画家；超级英雄；逃脱侠；逃脱术；纳粹；犹太；和自己创造出来的超级英雄谈恋爱的体验
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/2021List/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+二战期间两个犹太漫画家创造出了一个亦虚亦实的超级英雄——逃脱侠，用画笔创造出了他们的理想乡和商业帝国。他们一生的经历更是一次又一次的逃脱：逃脱魔术，逃脱纳粹，逃脱贫困，逃脱性取向的迷茫，逃脱荒唐的现实。”Escapist”对他们而言不仅是创造的角色，更寄托了他们的解脱和救赎。
+<br>
+<br>
+<br>
