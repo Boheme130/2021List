@@ -1,5 +1,7 @@
 ## 2021年榜
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
+
+![avatar](https://s2.loli.net/2022/01/01/JYCgGuZwSqhLUAa.jpg)
 <br>
 <br>
 
